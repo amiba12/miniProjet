@@ -29,3 +29,9 @@ chambres, et la génération des états.</br>
 ### Modification 
 ![](modification.png)
 
+### Reservation
+![](reservation.png)
+
+### Facture 
+![](facture.png)
+
