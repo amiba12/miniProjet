@@ -20,4 +20,12 @@ chambres, et la génération des états.</br>
 
 ![](client.png)
 
-### 
+### Ajout 
+![](ajoutclient.png)
+
+### Consultation
+![](consultation.png)
+
+### Modification 
+![](modification.png)
+
